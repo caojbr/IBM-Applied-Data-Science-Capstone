@@ -1,4 +1,4 @@
-# testerepo
+# IBM Applied Data Science Capstone
 
 ## Editing the file
 
